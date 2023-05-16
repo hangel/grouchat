@@ -98,3 +98,13 @@ with response_container:
         for i in range(len(st.session_state['generated'])):
             message(st.session_state['past'][i], is_user=True, key=str(i) + '_user')
             message(st.session_state['generated'][i], key=str(i))
+DESC_END = """
+Wrapping up
+In this post, I've shown you how to create a chatbot app using an open-source LLM from the unofficial HuggingChat API and Streamlit. You can create your own AI-powered chatbot in only a few lines of code without needing API keys.
+
+I hope this tutorial encourages you to explore the endless possibilities of chatbot development using different models and techniques. The sky is the limit!
+
+If you have any questions, please leave them in the comments below or contact me on Twitter at @thedataprof or on LinkedIn. Share your app creations on social media and tag me or the Streamlit account, and I'll be happy to provide feedback or help retweet!
+
+Happy Streamlit-ing! 🎈
+"""
