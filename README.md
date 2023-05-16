@@ -2,7 +2,7 @@
 ```
 ⬆️ (Replace above with your app's name)
 ```
-...
+---
 
 A personal implementation of: 
 *A step-by-step guide using the unofficial HuggingChat API (no APIs required)*
