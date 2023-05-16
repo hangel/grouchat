@@ -2,8 +2,9 @@
 ```
 ⬆️ (Replace above with your app's name)
 ```
+...
 
-Description of the app ...
+A personal implementation of: 
 *A step-by-step guide using the unofficial HuggingChat API (no APIs required)*
 Posted in LLMs, May 10 2023
 Hey, Streamlit-ers! 👋
