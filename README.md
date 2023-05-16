@@ -5,7 +5,8 @@
 
 Description of the app ...
 
-## Demo App
+## Grouchat App
+[How to build an LLM-powered ChatBot with Streamlit](https://discuss.streamlit.io/t/how-to-build-an-llm-powered-chatbot-with-streamlit/42916)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
