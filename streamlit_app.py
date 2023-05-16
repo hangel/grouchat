@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('disguised_face App Name' Grouchat)
 
 st.write('Hello world!')
