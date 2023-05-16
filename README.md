@@ -5,7 +5,9 @@
 ---
 
 A personal implementation of: 
+[How to build an LLM-powered ChatBot with Streamlit](https://discuss.streamlit.io/t/how-to-build-an-llm-powered-chatbot-with-streamlit/42916)
 *A step-by-step guide using the unofficial HuggingChat API (no APIs required)*
+
 Posted in LLMs, May 10 2023
 Hey, Streamlit-ers! 👋
 
@@ -22,7 +24,7 @@ In this post, you’ll learn how to:
 
 
 ## Grouchat App
-[How to build an LLM-powered ChatBot with Streamlit](https://discuss.streamlit.io/t/how-to-build-an-llm-powered-chatbot-with-streamlit/42916)
+
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
